@@ -1,0 +1,3 @@
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/mtcnn_for_java/build/CMakeFiles/edit_cache.dir
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/mtcnn_for_java/build/CMakeFiles/rebuild_cache.dir
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/mtcnn_for_java/build/CMakeFiles/detect.dir
